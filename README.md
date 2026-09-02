@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🛠️ Tech Stack
+
+### Languages
+Python • Java • JavaScript • SQL
+
+### AI / ML
+Machine Learning • Deep Learning • NLP • RAG • LLMs • Agentic AI
+
+### AI Frameworks
+LangChain • LangGraph • Hugging Face
+
+### Backend
+FastAPI • Flask • REST APIs
+
+### Vector Databases & Search
+Qdrant • FAISS • BM25 • Hybrid Search
+
+### Databases
+PostgreSQL • MySQL • SQLite • Redis
+
+### MLOps / DevOps
+Docker • Docker Compose • AWS EC2 • Git • GitHub
+
+### AI Observability & Evaluation
+LangSmith • Langfuse • Ragas • DeepEval
+
+### APIs & AI Services
+Gemini • Groq • Cohere • Tavily • AviationStack
+
+### Data Science
+NumPy • Pandas • Scikit-learn • Matplotlib
