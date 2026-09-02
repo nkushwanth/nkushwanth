@@ -93,83 +93,10 @@ My work focuses on taking AI systems beyond basic prototypes through **intellige
 
 
 
-### Highlights
-
-* 🧠 Supervisor-driven multi-agent architecture using **LangGraph**
-* 🔀 Dynamic task routing and state management
-* 👤 Human-in-the-Loop workflows using `interrupt()`
-* 💾 PostgreSQL checkpointing for persistent agent state
-* 🔌 MCP-based tool integration
-* 🔎 Tavily search integration
-* ✈️ Flight API integration
-* 🌦️ Custom weather MCP service
-* 🛡️ LLM-based guardrails for invalid/unrelated requests
-* 📊 End-to-end evaluation and LangSmith observability
-* ⚡ FastAPI backend
-
 
 ### Tech
 
-`Python` `LangGraph` `LangChain` `FastAPI` `PostgreSQL` `MCP` `Groq` `LangSmith` `Guardrails`
-
----
-
-
-
-### Highlights
-
-* 📄 Processes **13,000+ document chunks**
-* 🔤 BM25 lexical retrieval
-* 🧠 Dense vector retrieval
-* 🔎 Hybrid retrieval architecture
-* 🎯 Cohere reranking
-* 🗂️ Metadata-aware retrieval
-* 🔄 Incremental document indexing
-* 💾 Persistent vector storage using Qdrant
-* ⚡ Redis semantic caching
-* 📉 Reduced API calls by **~40%**
-* 🔭 LangSmith observability
-* 📊 RAGAS-based evaluation
-
-
-
-### Tech
-
-`Python` `LangChain` `Qdrant` `BM25` `Cohere` `Redis` `Hugging Face` `RAGAS` `LangSmith`
-
----
-
-# 🎓 Education
-
-**Mahindra University — Hyderabad**
-
-B.Tech in Computer Science and Engineering
-**Graduation: August 2026**
-
-Relevant Coursework:
-
-`Distributed Systems • Machine Learning • Generative AI • Agentic AI`
-
----
-
-# 📜 Certifications
-
-* **Building Generative AI Applications Using Amazon Bedrock**
-* **AWS Cloud for Beginners**
-
----
-
-# 🧠 Currently Exploring
-
-* Advanced Machine Learning
-* Deep Learning
-* Production LLM architectures
-* Advanced RAG systems
-* Agentic AI
-* Multi-agent architectures
-* AI evaluation & observability
-* MLOps
-* Distributed AI systems
+`Python` `LangGraph` `LangChain` `FastAPI` `PostgreSQL` `MCP` `Groq` `LangSmith` `Guardrails` `Qdrant` 
 
 ---
 
