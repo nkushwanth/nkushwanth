@@ -46,13 +46,13 @@ My work focuses on taking AI systems beyond basic prototypes through **intellige
 
 ---
 
-### 🤖 AI / LLM
+### 🤖 AI / ML
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
 
-**Machine Learning • NLP • LLMs • Generative AI • RAG • Agentic AI • MCP**
+**Machine Learning • NLP • LLMs • Generative AI • RAG • Agentic AI • MCP • Pytorch •TensorFlow • Pandas • Scikit-learn**
 
 ---
 
