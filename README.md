@@ -93,20 +93,6 @@ My work focuses on taking AI systems beyond basic prototypes through **intellige
 
 
 
-
-### Tech
-
-`Python` `LangGraph` `LangChain` `FastAPI` `PostgreSQL` `MCP` `Groq` `LangSmith` `Guardrails` `Qdrant` 
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nkushwanth&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkushwanth&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
 --- 
     Contribution Streak
 
