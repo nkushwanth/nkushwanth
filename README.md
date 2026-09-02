@@ -98,7 +98,7 @@ My work focuses on taking AI systems beyond basic prototypes through **intellige
 
 
 --- 
-    Contribution Streak
+    
 
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=nkushwanth&theme=tokyonight&hide_border=true"/>
