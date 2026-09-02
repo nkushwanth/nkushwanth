@@ -107,13 +107,12 @@ My work focuses on taking AI systems beyond basic prototypes through **intellige
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkushwanth&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
----
+--- 
+    Contribution Streak
 
-# 🔥 Contribution Streak
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=nkushwanth&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
